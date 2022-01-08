@@ -1,0 +1,521 @@
+   50  pbcopy < ~/.ssh/id_rsa.pub
+   51  ssh -T git@github.com
+   52  conda init zsh
+   53  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+   54  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+   55  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+   56  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+   57  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+   58  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+   59  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/01_Hello_Variable_World/Unsolved/hello_variable_world.py"
+   60  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/02_Listing_Assets/Unsolved/listing_assets.py"
+   61  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   62  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   63  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   64  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   65  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   66  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   67  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   68  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   69  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   70  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   71  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   72  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   73  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   74  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   75  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   76  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   77  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   78  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   79  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   80  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   81  conda update conda
+   82  conda create -n dev python=3.7 anaconda
+   83  conda activate dev
+   84  conda deactivate
+   85  pwd
+   86   ls
+   87  cd desktop
+   88  mkdir FinTech-Workspace
+   89  ls
+   90  cd FinTech-Workspace
+   91  brew install python3
+   92  python3 --version
+   93  cd..
+   94  ls
+   95  conda activate dev
+   96  python --version
+   97  code .
+   98  python hello_python.py
+   99  ls
+  100  cd python_project
+  101  ls
+  102  python hello_python.py
+  103  code .
+  104  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/Class_1_Activities/06_Stu_Working_with_Dictionaries/Solved/dictionaries.py"
+  105  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/Class_1_Activities/06_Stu_Working_with_Dictionaries/Solved/dictionaries.py"
+  106  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/Class_1_Activities/06_Stu_Working_with_Dictionaries/Solved/dictionaries.py"
+  107  /opt/homebrew/bin/python3
+  108  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/01_Conditional_Statement/Solved/conditional_statement.py"
+  109  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/01_Conditional_Statement/Unsolved/conditional_statement.py"
+  110  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Day 2/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  111  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Day 2/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  112  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Day 2/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  113  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Day 2/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  114  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Day 2/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  115  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Day 2/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  116  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Day 2/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  117  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Day 2/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py"
+  118  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py"
+  119  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py"
+  120  conda activate dev
+  121  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/02_Returned_Goods/Unsolved/returned_goods.py"
+  122  conda activate dev
+  123  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/02_Returned_Goods/Unsolved/returned_goods.py"
+  124  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/02_Returned_Goods/Unsolved/returned_goods.py"
+  125  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/02_Returned_Goods/Unsolved/returned_goods.py"
+  126  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/02_Returned_Goods/Solved/returned_goods.py"
+  127  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  128  conda activate dev
+  129  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  130  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  131  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  132  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.5/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  133  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.6/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py"
+  134  conda activate dev
+  135  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.6/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py"
+  136  conda activate dev
+  137  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Homework Activities/Exercises 1.6/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py"
+  138  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py"
+  139  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech/Class Activities/Class_2_Activities/01_Stu_Variables/Solved/variables.py"
+  140  conda activate dev
+  141  conda activate dev
+  142  import pathlib
+  143  from pathlib import Path
+  144  conda deactivate
+  145  import pathlib
+  146  python import
+  147  conda activate dev
+  148  python /Users/rachelbates/Desktop/FinTech/Class Activities/Class_2_Activities/01_Stu_Variables/Solved/variables.py
+  149  python /Users/rachelbates/Desktop/FinTech/Class Activities/Class_2_Activities/01_Stu_Variables/Solved/variables.py
+  150  python /Users/rachelbates/Desktop/FinTech/Class_Activities/Class_2_Activities/01_Stu_Variables/Solved/variables.py
+  151  dir
+  152  ls
+  153  pwd
+  154  conda activate deve
+  155  conda activate dev
+  156  ls
+  157  conda activate dev
+  158  ls
+  159  conda deactivate
+  160  ls
+  161  pwd
+  162  mkdir Activity-1
+  163  ls
+  164  touch hello.md
+  165  ls
+  166  mv hello.md coding.md
+  167  ls
+  168  mkdir Activity-1/terminal
+  169  ls
+  170  mdr
+  171  rmdir
+  172  ls
+  173  rmdir Activity-1
+  174  cd Activity-1
+  175  ls
+  176  rm -r Activity-1
+  177  cd..
+  178  cd.
+  179  cd
+  180  ls
+  181  cd desktop
+  182  ls
+  183  cd Fin
+  184  cd FinTech_Workspace
+  185  ls
+  186  rm -r Activity-1
+  187  ls
+  188  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Class_Activities/Class_2_Activities/03_Stu_Conditional_Statements/Solved/conditional_statements.py
+  189  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Class_Activities/Class_2_Activities/04_Ins_Conditionals/Solved/conditionals.py
+  190  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Class_Activities/Class_2_Activities/04_Ins_Conditionals/Solved/conditionals.py
+  191  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Class_Activities/Class_2_Activities/05_Stu_Conditionals/Solved/conditionals.py
+  192  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Class_Activities/Class_2_Activities/06_Ins_Functions/Solved/functions.py
+  193  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Class_Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  194  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Class_Activities/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  195  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  196  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  197  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/testing.py
+  198  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/testing.py
+  199  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/testing.py
+  200  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/testing.py
+  201  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  202  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  203  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  204  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  205  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  206  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  207  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  208  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  209  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  210  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  211  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  212  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  213  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  214  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  215  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  216  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  217  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  218  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  219  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  220  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  221  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  222  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  223  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  224  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  225  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  226  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  227  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  228  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  229  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  230  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  231  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  232  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  233  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  234  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  235  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  236  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  237  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  238  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  239  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  240  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  241  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  242  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  243  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  244  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  245  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  246  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  247  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  248  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  249  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  250  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  251  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  252  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  253  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  254  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  255  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  256  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  257  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  258  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  259  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  260  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  261  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  262  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  263  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  264  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  265  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  266  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  267  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Exercises 1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  268  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Exercises 1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  269  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Exercises 1.6/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py"
+  270  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Exercises 1.6/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py"
+  271  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Exercises 1.6/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py"
+  272  path
+  273  ls path
+  274  python Path(.)
+  275  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  276  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  277  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  278  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  279  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  280  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Challenge_1/loan_analyzer.py
+  281  conda activate dev
+  282  ls
+  283  cd desktop
+  284  cd fintech_workspace
+  285  git clone
+  286  git clone git@github.com:r8chel/FinTech_Challenge_1.git
+  287  ls
+  288  cd fintech_challenge_1
+  289  git status
+  290  git add -A
+  291  git commit -m "uploading loan analyzer"
+  292  git push
+  293  git push
+  294  cd Challenge_1
+  295  ls
+  296  git add -A
+  297  get status
+  298  git status
+  299  git push
+  300  git status
+  301  git commit -a
+  302  conda activate dev
+  303  ls
+  304  cd desktop
+  305  cd FinTech_Workspace
+  306  ls
+  307  cd FinTech_Challenge_1
+  308  git status
+  309  git commit -a Cleaned up code
+  310  git commit -a "Cleaned up code"
+  311  git commit -m "Cleaned up code"
+  312  git push
+  313  python
+  314  pip install fire
+  315  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  316  pip -V
+  317  conda activate dev
+  318  pip -V
+  319  pip freeze
+  320  pip install fire
+  321  pip install questionary
+  322  /opt/homebrew/bin/python3 "/Users/rachelbates/Desktop/FinTech_Workspace/Class_Activities/Module 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py"
+  323  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Module_2/cli.py
+  324  pip install fire
+  325  /opt/homebrew/bin/python3 /Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Module_2/cli.py
+  326  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/Homework_Activities/Module_2/cli.py
+  327  pwd
+  328  ls
+  329  cd desktop
+  330  ls
+  331  cd fintech_workspace
+  332  ls
+  333  cd homework_activites
+  334  cd homework_activities
+  335  ls
+  336  cd module_2
+  337  cd module_2
+  338  mkdir test_folder
+  339  cd test_folder
+  340  touch fintech-file.txt
+  341  ls
+  342  rm fintech-file.txt
+  343  cd..
+  344  cd
+  345  ls
+  346  cd destktop/fintech_workspace
+  347  cd destktop\fintech_workspace
+  348  cd desktop
+  349  cd fintch_workspace
+  350  ls
+  351  cd fintech_workspace
+  352  cd homework_activites
+  353  ls
+  354  cd homework_activities
+  355  ls
+  356  cd module_2
+  357  ls
+  358  rm -r
+  359  rm test_folder
+  360  rm -r test_folder
+  361  ls
+  362  clear
+  363  cd
+  364  pwd
+  365  pip install fire
+  366  ls
+  367  cd desktop
+  368  cd fintech_workspace
+  369  ls
+  370  cd homework activities
+  371  cd homework_activities
+  372  ls
+  373  cd module_2
+  374  ls
+  375  python cli.py
+  376  conda activate dev
+  377  python
+  378  python cli.py --pants=True
+  379  python cli.py --pants=True
+  380  python cli.py --pants=True
+  381  ls
+  382  cd 01_adding_fire_to_the_loan_qualifier_app
+  383  ls
+  384  cd unsolved
+  385  ls
+  386  python app.py
+  387  python app.py
+  388  python app.py
+  389  python app.py --credit_score=750
+  390  python app.py --credit_score=750 --debt=5000 --income=20000
+  391  cd
+  392  ls
+  393  pip install questionary
+  394  ls
+  395  cd desktop
+  396  ls
+  397  cd fintech_workspace
+  398  ls
+  399  cd homework_activities
+  400  cd module_2
+  401  ls
+  402  python dialog
+  403  python dialog.py
+  404  python dialog.py
+  405  ls
+  406  cd 02_Adding_questionary_to_loan_qualifier
+  407  ls
+  408  python app.py --credit_score=750 --debt=5000 --income=20000
+  409  cd unsolved
+  410  python app.py --credit_score=750 --debt=5000 --income=20000
+  411  python app.py --credit_score=750 --debt=5000 --income=20000
+  412  git config --list
+  413  cd..
+  414  cd.
+  415  cd..
+  416  cd
+  417  ls
+  418  cd desktop/fintech_workspace
+  419  ls
+  420  cd Hoework_Activities
+  421  ls
+  422  cd Homework_Activities
+  423  ls
+  424  cd module_2
+  425  mkdir GitPractice
+  426  cd GitPractice
+  427  ls
+  428  git clone git@github.com:r8chel/Fintech_2.4.git
+  429  git status
+  430  ls
+  431  cd gintech_2.4
+  432  cd fintech_2.4
+  433  git status
+  434  git add readme.md
+  435  git status
+  436  git add README.md
+  437  git status
+  438  touch a_text_file.txt
+  439  ls
+  440  git status
+  441  git add a_text_file.txt
+  442  git status
+  443  git commit -m "Updated README and added a new txt file"
+  444  git status
+  445  git push
+  446  ls
+  447  cd..
+  448  ..
+  449  .
+  450  ..
+  451  ...
+  452  ls
+  453  cd
+  454  dir
+  455  ls
+  456  cd desktop
+  457  cd fintech_workspace
+  458  ls
+  459  cd howework_activities
+  460  cd homework_activities
+  461  ls
+  462  cd module_2
+  463  ls
+  464  cd GitPractice
+  465  ls
+  466  git clone git@github.com:r8chel/FinTech_2.4.5.git
+  467  ls
+  468  cd fintech_2.4.5
+  469  mkdir img
+  470  cd img
+  471  ls
+  472  cd
+  473  ls
+  474  cd desktop
+  475  ls
+  476  cd fintech_workspace
+  477  mkdir gitlab
+  478  cd gitlab
+  479  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  480  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  481  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2021-U-B.git
+  482  git status
+  483  ls
+  484  cd ucb-virt-fin-put-12-2021-u-b
+  485  cd UCB-VIRT-FIN-PT-12-2021-U-B
+  486  GIT STATUS
+  487  git status
+  488  git pull
+  489  pbcopy < ~/.ssh/id_rsa.pub
+  490  conda activate deve
+  491  conda activate dev
+  492  cd desktop
+  493  ls
+  494  cd fintech_workspace
+  495  cd challenge_2
+  496  ls
+  497  cd fintech_challenge_2
+  498  ls
+  499  git clone git@github.com:r8chel/loan_qualifier_app.git
+  500  git clone git@github.com:r8chel/loan_qualifier_app.git
+  501  cd loan_qualifier_app
+  502  git status
+  503  git add -A 
+  504  git commit
+  505  source /Users/rachelbates/opt/anaconda3/bin/activate
+  506  conda activate dev
+  507  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  508  conda activate dev
+  509  cd desktop/fintech_workspace/fintech_challenge-2
+  510  cd desktop/fintech_workspace/fintech_challenge_2
+  511  ls
+  512  cd loan_qualifier_app
+  513  git add -A
+  514  git status
+  515  git commit -m "Initial commit - added starter files"
+  516  git push
+  517  git add -A 
+  518  git commit -m "Completed app.py"
+  519  git push
+  520  source /Users/rachelbates/opt/anaconda3/bin/activate
+  521  conda activate dev
+  522  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  523  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  524  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  525  source /Users/rachelbates/opt/anaconda3/bin/activate
+  526  conda activate dev
+  527  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  528  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  529  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  530  source /Users/rachelbates/opt/anaconda3/bin/activate
+  531  conda activate dev
+  532  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  533  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  534  python app.py
+  535  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/qualifier/utils/fileio.py
+  536  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  537  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  538  source /Users/rachelbates/opt/anaconda3/bin/activate
+  539  conda activate dev
+  540  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  541  source /Users/rachelbates/opt/anaconda3/bin/activate
+  542  conda activate dev
+  543  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/qualifier/utils/fileio.py
+  544  source /Users/rachelbates/opt/anaconda3/bin/activate
+  545  conda activate dev
+  546  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  547  /Users/rachelbates/opt/anaconda3/envs/dev/bin/python /Users/rachelbates/Desktop/FinTech_Workspace/FinTech_Challenge_2/loan_qualifier_app/app.py
+  548  cd desktop/fintech_workspace
+  549  ls
+  550  cd fintech_challenge_2
+  551  conda activate dev
+  552  git status
+  553  ls
+  554  cd loan_qualifier_app
+  555  git status
+  556  git status
+  557  git add -A
+  558  git status
+  559  git commit -m "Added save to .csv in the fileio module"
+  560  git push
+  561  conda activate dev
+  562  cd desktop/fintech_workspace/fintech_challenge_2
+  563  ls
+  564  cd loan_qualifier_app
+  565  python app.py
+  566  git status
+  567  git add -A
+  568  git status
+  569  git commit -m "Updated Readme and bug fixes"
+  570  git push
