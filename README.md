@@ -1,4 +1,4 @@
-![Python Logo](Images/python.png)
+![Python Logo](images/python.png)
 
 # Loan Qualifier Application
 
